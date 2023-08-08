@@ -1,0 +1,16 @@
+depsversion = "0.0.0"
+
+name = "piot/sense-steam"
+version = "0.0.0"
+
+[[dependencies]]
+name = 'piot/sense'
+version = "*"
+
+[[dependencies]]
+name = 'piot/steam-input-c'
+version = "*"
+
+[[dependencies]]
+name = 'piot/imprint'
+version = "*"

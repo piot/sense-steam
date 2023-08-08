@@ -1,0 +1,13 @@
+.vscode/
+build/
+.cmake/
+deps*/
+CMakeCache.txt
+cmake_install.cmake
+*.ninja*
+ninja*
+CMakeFiles/
+.idea/
+Testing/
+Makefile
+src/lib/libsense-steam.a
